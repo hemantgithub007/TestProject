@@ -1,0 +1,24 @@
+PODS:
+  - ACFloatingTextfield-Objc (1.9)
+  - IQKeyboardManagerSwift (6.5.10)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - ACFloatingTextfield-Objc (~> 1.7)
+  - IQKeyboardManagerSwift
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - ACFloatingTextfield-Objc
+    - IQKeyboardManagerSwift
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  ACFloatingTextfield-Objc: 1c3d33e90af7dd274eff508f0082fad12f2eeb72
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 4ffc67eb4fe2ef34ff22cc0626d17aa31e630e31
+
+COCOAPODS: 1.11.3
